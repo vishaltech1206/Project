@@ -1,0 +1,10 @@
+.site{
+    display: flex;
+            background-color: C2DED1;
+            height: 50px;
+            background-image: url(media/LOGO.png);
+            background-size: contain;
+            background-repeat: no-repeat;
+            overflow: hidden;
+
+}
